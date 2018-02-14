@@ -1,0 +1,22 @@
+{
+  "name": "hq9plus-compiler",
+  "version": "1.0.0",
+  "description": "A HQ9+ Compiler",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon ./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackwork-tymm0/hq9plus-compiler.git"
+  },
+  "keywords": [
+    "hq9+"
+  ],
+  "author": "tymm0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackwork-tymm0/hq9plus-compiler/issues"
+  },
+  "homepage": "https://github.com/hackwork-tymm0/hq9plus-compiler#readme"
+}
